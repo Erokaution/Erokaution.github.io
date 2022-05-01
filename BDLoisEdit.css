@@ -1303,10 +1303,10 @@ body::after {
 }
 
 #app-mount .spoilerText-27bIiA {							/* messageelement		spoiler								*/
-	background-color: rgba(var(--spoilercolor),0.5);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 #app-mount .spoilerText-27bIiA.hidden-3B-Rum {				/* messageelement		hiddenspoiler						*/
-	background-color: rgba(var(--spoilercolor),0.5);
+	background-color: rgba(var(--transparencycolor), .8);
 }
 
 .icon-JRJzJz[style*="/assets/5da4cdab01d4d89c593c48c62ae0d937.svg"] {		/* systemmessage			pinicon									*/
